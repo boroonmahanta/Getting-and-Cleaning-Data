@@ -1,6 +1,6 @@
 #CodeBook
 
-##This is a code book that describes the variables, the data, and any transformations or work that was done to clean up the data.
+##This code book describes the variables, the data, and any transformations or work that was done to clean up the data.
 
 ###The data source
 
